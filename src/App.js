@@ -11,7 +11,7 @@ function App() {
           Manish has started Learning React.          
         </p>
         <p>Welcome to my first react program.</p>
-        <p>Day 1</p>
+        <p>Hello React</p>
      
       </header>
     </div>
